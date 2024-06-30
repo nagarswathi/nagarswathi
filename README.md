@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nswathinayak
+- 👋 Hi, I’m @nagarswathi
 - 👀 I’m interested in DSA, GenAI, AI in healthcare, ML and DL
 - 🌱 I’m currently learning DSA and NLP
 - 💞️ I’m looking to collaborate on GenAI and AI in healthcare
